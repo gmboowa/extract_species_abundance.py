@@ -1,6 +1,6 @@
 # Kraken2 species-level abundance extractor
 
-This script extracts **species-level abundance** from a Kraken2 report file such as the one generated from ***TheiaMeta_Illumina_PE_PHB*** (https://github.com/theiagen/public_health_bioinformatics/tree/main/workflows/theiameta) and provides a summary of species names, their percentage abundance, and the number of reads assigned.
+This script extracts **species-level abundance** from a Kraken2 report file such as the one generated from ***TheiaMeta_Illumina_PE_PHB*** (https://github.com/theiagen/public_health_bioinformatics/blob/main/workflows/theiameta/wf_theiameta_illumina_pe.wdl) and provides a summary of species names, their percentage abundance, and the number of reads assigned.
 
 
 ## **Features**
