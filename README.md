@@ -1,4 +1,4 @@
-# Kraken2 Species-Level Abundance Extractor
+# Kraken2 species-level abundance extractor
 
 This script extracts **species-level abundance** from a Kraken2 report file and provides a summary of species names, their percentage abundance, and the number of reads assigned.
 
@@ -12,7 +12,7 @@ This script extracts **species-level abundance** from a Kraken2 report file and 
 
 ## **Installation**
 
-### **1. Install Python Dependencies**
+### **1. Install python dependencies**
 Ensure you have `pandas` installed. If not, install it using:
 
 ```sh
@@ -29,7 +29,7 @@ pip3 install pandas
 
 ## **Usage**
 
-### **1. Run the Script**
+### **1. Run the script**
 ```sh
 python extract_species_abundance.py -i <kraken2_report_file>
 ```
@@ -41,7 +41,7 @@ python extract_species_abundance.py -i D392_S7_L001.report.txt
 
 ---
 
-## **Example Output**
+## **Example output**
 ```
 Top 10 Most Abundant Species:
          Taxon_name  Percentage  Reads_covered
@@ -52,7 +52,7 @@ Top 10 Most Abundant Species:
    Shigella dysenteriae        0.05            613
 ```
 
-### **2. Output File**
+### **2. Output file**
 The script saves the full species-level abundance summary as:
 ```
 species_abundance_summary.csv
@@ -79,4 +79,4 @@ This script is open-source and free to use.
 ---
 
 ## **Author**
-Gerald Mboowa 🚀
+Gerald Mboowa 
