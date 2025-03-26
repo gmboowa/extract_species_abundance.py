@@ -50,7 +50,7 @@ Top 10 Most Abundant Species:
    Klebsiella pneumoniae        0.12              1373
    Escherichia albertii         0.07              804
    Escherichia fergusonii       0.06              655
-   Shigella dysenteriae         0.05              613
+   ***Shigella dysenteriae***         0.05              613
 ```
 
 ### **2. Output file**
