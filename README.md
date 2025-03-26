@@ -45,12 +45,12 @@ python extract_species_abundance.py -i D392_S7_L001.report.txt
 ## **Example output**
 ```
 Top 10 Most Abundant Species:
-         Taxon_name  Percentage  Reads_covered
-   Escherichia coli       17.56         207170
-   Klebsiella pneumoniae        0.12           1373
-   Escherichia albertii        0.07            804
-   Escherichia fergusonii        0.06            655
-   Shigella dysenteriae        0.05            613
+   **Taxon_name**            **Percentage**    **Reads_covered**
+   *Escherichia coli*             17.56            207170
+   *Klebsiella pneumoniae*        0.12              1373
+   *Escherichia albertii*         0.07              804
+   *Escherichia fergusonii*       0.06              655
+   *Shigella dysenteriae*         0.05              613
 ```
 
 ### **2. Output file**
